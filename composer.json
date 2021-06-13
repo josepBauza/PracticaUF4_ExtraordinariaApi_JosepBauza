@@ -1,0 +1,21 @@
+{
+    "name": "josepbauza/practica-uf4_extraordinaria-api_josep-bauza",
+    "description": "My first api",
+    "type": "package",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Josep",
+            "email": "josepbauza7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "PracticaUF4_ExtraordianriaApi_JosepBauza": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
